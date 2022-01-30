@@ -55,6 +55,11 @@ There are three levels of this game: Easy: level 1 (2 qubits), Medium: level 2 (
 3) Finally, the quantum circuits created by the players and the corresponding generated maps will be shown for visualization. The players' generated map will be compared with the target map. The player with the closest guess will win! *If the closest guess is at least 70 percent or more similar to the target map, otherwise no one wins :'(*
 
 ## Sample Gameplay
+Generated target map:
+
+
+![4qbt_target_map)](4qbt_target_map.png)
+
 
 Player 1 circuit after all rounds:
 
