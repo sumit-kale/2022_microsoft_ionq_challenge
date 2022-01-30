@@ -59,3 +59,5 @@ We have used python numpy, matplotlib for generating the map, and qiskit for the
 ### Future Work
 * The Wild: For a future bonkers variant of the game, players can be given a chance to disrupt the other players' circuit by entangling the two circuits. The chance can a special powerup or wildcard that can be used only once. 
 * The Artsy: The generated maps can include more colours and shapes and thus, users can make different artworks by varying the components of the circuits. 
+
+##  Our personal experience at MIT iQuHACK 2022 
