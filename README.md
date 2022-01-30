@@ -35,7 +35,7 @@ There are three levels of this game: Easy: level 1 (2 qubits), Medium: level 2 (
 * Level 2 has 4*4=16 blocks map
 * Level 3 has 6*6=36 blocks map
 
-* 1) In round 1, both the players have to choose an initial state. The options are $\bra{0}$ 
+* 1) In round 1, both the players have to choose an initial state. The options are $$\bra{0}$$ 
 
 
 
