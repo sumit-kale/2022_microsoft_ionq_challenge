@@ -61,7 +61,7 @@ Generated target map:
 ![4qbt_target_map)](4qbt_target_map.png)
 
 
-Player 1 circuit after all rounds:
+Player 1 quantum circuit after all rounds:
 
 
 ![p1_circuit)](p1_circuit.png) 
@@ -72,7 +72,7 @@ Player 1 generated map:
 ![p1_target)](p1_target.png)
 
 
-Player 2 circuit after all rounds: 
+Player 2 quantum circuit after all rounds: 
 
 
 ![p2_circuit)](p2_circuit.png)
