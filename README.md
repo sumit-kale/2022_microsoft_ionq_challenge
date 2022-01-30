@@ -13,7 +13,7 @@ This game is ***marriage*** between two challenges given to the participants fro
 * Using a quantum computer to procedurally generate maps
 * Using quantum logic itself as a gaming mechanism for both fun **AND** education!
 
-***Players of this game can learn about how probabilites of basis states change with the applicaton of different quantum gates***
+*** The motivation behind developing this game is to help participants to understand abstract quantum mechanical concepts of superposition and entanglement via understanding the varied probabilites of basis states with the applicaton of different quantum gates***
 
 
 ## Quantum Game Engine for Map Generation
