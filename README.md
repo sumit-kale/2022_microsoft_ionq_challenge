@@ -54,6 +54,12 @@ There are three levels of this game: Easy: level 1 (2 qubits), Medium: level 2 (
 
 3) Finally, the quantum circuits created by the players and the corresponding generated maps will be shown for visualization. The players' generated map will be compared with the target map. The player with the closest guess will win! *If the closest guess is at least 70 percent or more similar to the target map, otherwise no one wins :'(*
 
+## Sample Gameplay
+
+Player 1 circuit after all rounds:
+![p1_circuit)](p1_circuit.png) 
+
+
 
 #### Implementation
 We have used qiskit, python numpy, matplotlib for generating the map, and implimented it on quantum processing unit (qpu) provided by IonQ from the Microsoft Azure interface.
