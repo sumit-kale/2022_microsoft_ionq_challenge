@@ -17,6 +17,8 @@ This game is the marriage between the two of the challenge ideas of the IonQ + M
 ### Qunatum Game Engine for Map Generation
 Random map generation is an important part of game design. Map generation can not be completely random as it is subject to the constraints of being aesthetic, having some sort of symetry yet unique, being relevant to the experince of the game and solvable as well. Meeting all these contraints means repeatation of some set models, which undermines the uniqueness of the game content. Hence, satisfying all these and constraints and still providing a fresh experience everytime is a mammoth task. For our game, we have used the power of quantum computing to help us with this 'seemingly impossible' task.
 
+The generated map is nothing but a form of representation of the probabilty distributions of the basis states. Each block in the lattice represents a basis state and the colour of the blocks are determined by the probabilty of getting that state. The blocks will be darker for states whose probability is low, and lighter for high probability states. The lowest probabilities are made black, the highest are white and the scaling of the shading is logarithmic.
+
 
 
 
