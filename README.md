@@ -67,6 +67,31 @@ Player 1 generated map:
 ![p1_target)](p1_target.png)
 
 
+Player 2 circuit after all rounds: 
+
+
+![p2_circuit)](p2_circuit.png)
+
+
+Player 2 generated map:
+
+
+![p2_target)](p2_target.png)
+
+
+
+Who is the winner?
+
+
+![Winner_winner)](Winner_winner.png)
+
+
+
+
+
+
+
+
 
 #### Implementation
 We have used qiskit, python numpy, matplotlib for generating the map, and implimented it on quantum processing unit (qpu) provided by IonQ from the Microsoft Azure interface.
@@ -76,4 +101,4 @@ We have used qiskit, python numpy, matplotlib for generating the map, and implim
 * The Artsy: The generated maps can include more colours and shapes and thus, users can make different artworks by varying the components of the circuits. 
 
 ##  Our personal experiences at MIT iQuHACK 2022 
-None of our team members had made games before. So, thinking about a quantum computing project like a game designer, where we had to think about how the rounds should be played, how to make it fun and educational, etc, was something new and exciting for us all. We had a fun time brainstorming ideas and making the game work! Working accross different time zones was a bit stressfull at some point but it helped us to run the project 24x7. We would like to thank the sponsors, the mentors and the organizing committee for providing the needfull resouces and all the help needed during the hackathon!
+None of our team members had made games before. So, thinking about a quantum computing project like a game designer, where we had to think about how the rounds should be played, how to make it fun and educational, etc, was something new and exciting for us all. We had a fun time brainstorming ideas and making the game work! Working accross different time zones was a bit stressfull at some poit but it helped us to run the project 24x7. We would like to thank the sponsors, the mentors and the organizing committee for providing the needfull resouces and all the help needed during the hackathon!
