@@ -99,7 +99,7 @@ Who is the winner?
 
 
 #### Implementation
-We have used qiskit, python numpy, matplotlib for generating the map, and implimented it on quantum processing unit (qpu) provided by IonQ from the Microsoft Azure interface.
+We have used qiskit, python numpy, matplotlib for generating the map, and implemented it on quantum processing unit (qpu) provided by IonQ from the Microsoft Azure interface.
 
 ### Future Work
 * The Wild: For a future bonkers variant of the game, players will be allowed to disrupt other players' circuits by allowing them to use two qubit entangling gates on each other circuits. This will be a power up which you can only use only once (Use this quantum power wisely) 
