@@ -1,4 +1,11 @@
 # Hack the QMap!
+Guess the terrain of the quantum map!
+
+## Team
+
+Sumit Suresh Kale, Rishabh Gupta, Shree Hari Sureshbabu, Shah Ishmam Mohtashim
+
+
 
 
 
