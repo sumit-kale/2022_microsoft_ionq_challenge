@@ -57,7 +57,14 @@ There are three levels of this game: Easy: level 1 (2 qubits), Medium: level 2 (
 ## Sample Gameplay
 
 Player 1 circuit after all rounds:
+
+
 ![p1_circuit)](p1_circuit.png) 
+
+
+Player 1 generated map:
+
+![p1_target)](p1_target.png)
 
 
 
