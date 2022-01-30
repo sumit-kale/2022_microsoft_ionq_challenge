@@ -56,5 +56,5 @@ Players will also have to select the position of the gates and the rotation valu
 We have used python numpy, matplotlib for generating the map and qiskit for the quantum circuits. 
 
 ### Future Work
-* The Wild: forand wild(?!) variant of the game, players can be given a chance to disrupt the other players' circuit by entangling the two circuits. The chance can a special powerup or wildcard that can be used only once. 
-* Generated mape
+* The Wild: For a future wild(?!) variant of the game, players can be given a chance to disrupt the other players' circuit by entangling the two circuits. The chance can a special powerup or wildcard that can be used only once. 
+* The Artsy: The generated maps can include more colours and shapes and thus, users can make different artworks by varying the components of the circuits. 
