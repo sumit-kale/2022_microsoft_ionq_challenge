@@ -13,6 +13,8 @@ This game is the ***marriage*** of the two of the challenge ideas of the IonQ + 
 * Using a quantum computer to procedurally generate maps
 * Using quantum logic itself as a gaming mechanism for both fun **AND** education!
 
+***Players of this game can learn about how probabilites of basis states change with the applicaton of different quantum gates***
+
 
 ## Quantum Game Engine for Map Generation
 Random map generation is an important part of game design. Map generation can not be completely random as it is subject to the constraints of being aesthetic, having some sort of symmetry yet unique, being relevant to the experience of the game, and solvable as well. Meeting all these constraints means repetition of some set models, which undermines the uniqueness of the game content. Hence, satisfying all these constraints and still providing a fresh experience every time is a mammoth task. For our game, we have used the power of quantum computing to help us with this 'seemingly impossible task.
