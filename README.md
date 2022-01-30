@@ -26,7 +26,6 @@ Example generated map for level two of the game:
 ![map(1)](map(1).png)  
 
 
-
 ## Playing the game: Elements and Rules
 
 There are three levels of this game: Easy: level 1 (2 qubits), Medium: level 2 (4 qubits) and Hard: level 3 (6 qubits)
@@ -37,7 +36,7 @@ There are three levels of this game: Easy: level 1 (2 qubits), Medium: level 2 (
  
 Example gameplay:
 1) In round 1, at first, the players will be shown a target map. Both the players have to choose an initial state. The options are |0>⊗n, |1>⊗n and (|0> + |1>)/sqrt(2)⊗n.
-2) In following rounds, players have to add quantum gates to form the quantum circuit. Options are:
+2) In the following rounds, players have to add quantum gates to form the quantum circuit. Options are:
 
     * 0: X        (1-qubit)
     * 1: Y        (1-qubit)
@@ -49,11 +48,11 @@ Example gameplay:
 
 Players will also have to select the position of the gates and the rotation value of the rotation gates.
 
-3) Finally, the quantum circuits created by the players and the corresponding generated maps will be shown for visualization. The players' generated map will be compared with the target map. The player with the closest guess will win! *If the closest guess is atleast 70 percent or more similar to the target map, otherwise no one wins :'(*
+3) Finally, the quantum circuits created by the players and the corresponding generated maps will be shown for visualization. The players' generated map will be compared with the target map. The player with the closest guess will win! *If the closest guess is at least 70 percent or more similar to the target map, otherwise no one wins :'(*
 
 
 #### Implementation
-We have used python numpy, matplotlib for generating the map and qiskit for the quantum circuits. 
+We have used python numpy, matplotlib for generating the map, and qiskit for the quantum circuits. 
 
 ### Future Work
 * The Wild: For a future wild(?!) variant of the game, players can be given a chance to disrupt the other players' circuit by entangling the two circuits. The chance can a special powerup or wildcard that can be used only once. 
