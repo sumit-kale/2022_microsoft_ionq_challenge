@@ -63,4 +63,4 @@ We have used python numpy, matplotlib for generating the map, and qiskit for the
 * The Artsy: The generated maps can include more colours and shapes and thus, users can make different artworks by varying the components of the circuits. 
 
 ##  Our personal experiences at MIT iQuHACK 2022 
-None of our team members had made games before. So, thinking about a quantum computing project like a game designer, where we had to think about how the rounds should be played, how to make it fun and educational, etc, was something new and exciting for us all. We had a fun time brainstorming ideas and making the game work!
+None of our team members had made games before. So, thinking about a quantum computing project like a game designer, where we had to think about how the rounds should be played, how to make it fun and educational, etc, was something new and exciting for us all. We had a fun time brainstorming ideas and making the game work! All the mentors and the people involved with organizing the hackathon were helpful as well!
