@@ -27,13 +27,15 @@ Example generated map for level two of the game:
 
 
 
-### Playing the game
+### Playing the game: Elements and rules
 
 There are three levels of this game: Easy: level 1 (2 qubits), Medium: level 2 (4 qubits) and Hard: level 3 (6 qubits)
 
 * Level 1 has 2*2=4 blocks map
 * Level 2 has 4*4=16 blocks map
 * Level 3 has 6*6=36 blocks map
+
+
 
 
 
