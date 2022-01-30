@@ -49,7 +49,7 @@ Example gameplay:
 
 Players will also have to select the position of the gates and the rotation value of the rotation gates.
 
-3) Finally, the quantum circuits created by the players and the corresponding generated maps will be shown for visualization. The players' generated map will be compared with the target map. The player with the closest guess will win! (If the closest guess is atleast 70 percent similar to the target map, otherwise no one wins :( )
+3) Finally, the quantum circuits created by the players and the corresponding generated maps will be shown for visualization. The players' generated map will be compared with the target map. The player with the closest guess will win! *If the closest guess is atleast 70 percent or more similar to the target map, otherwise no one wins :'( *
 
 
 
