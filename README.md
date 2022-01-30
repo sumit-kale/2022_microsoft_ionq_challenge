@@ -37,7 +37,7 @@ There are three levels of this game: Easy: level 1 (2 qubits), Medium: level 2 (
  
 Example gameplay:
 1) In round 1, both the players have to choose an initial state. The options are |0>⊗n, |1>⊗n and (|0> + |1>)/sqrt(2)⊗n.
-2) In rounds 2,3,4 players have to add quantum gates to form the quantum circuit. Options are:
+2) In following rounds, players have to add quantum gates to form the quantum circuit. Options are:
 
     * 0:X        (1-qubit)
     * 1:Y        (1-qubit)
@@ -46,6 +46,8 @@ Example gameplay:
     * 4:Rx(pi/k) (1-qubit)
     * 5:Ry(pi/k) (1-qubit)
     * 6:CNOT     (2-qubit)
+
+Players will also have to select the position of the gates and the rotation value of the rotation gates.
 
 
 
