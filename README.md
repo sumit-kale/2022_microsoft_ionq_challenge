@@ -34,7 +34,7 @@ There are three levels of this game: Easy: level 1 (2 qubits), Medium: level 2 (
 * Level 2 has 4*4= 16 blocks map
 * Level 3 has 6*6= 36 blocks map
  
-Example gameplay:
+*Gameplay:*
 1) In round 1, at first, the players will be shown a target map. Both the players have to choose an initial state. The options are |0>⊗n, |1>⊗n and (|0> + |1>)/sqrt(2)⊗n.
 2) In the following rounds, players have to add quantum gates to form the quantum circuit. Options are:
 
