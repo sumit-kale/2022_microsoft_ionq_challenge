@@ -46,7 +46,7 @@ Example gameplay:
     * 5: Ry(pi/k) (1-qubit)
     * 6: CNOT     (2-qubit)
 
-Players will also have to select the position of the gates and the rotation value (k) of the rotation gates.
+Players will also have to select the position of the gates and the parameter value (k) of the rotation gates.
 
 3) Finally, the quantum circuits created by the players and the corresponding generated maps will be shown for visualization. The players' generated map will be compared with the target map. The player with the closest guess will win! *If the closest guess is at least 70 percent or more similar to the target map, otherwise no one wins :'(*
 
