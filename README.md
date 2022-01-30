@@ -1,7 +1,4 @@
-#
-█░█ ▄▀█ █▀▀ █▄▀   ▀█▀ █░█ █▀▀   █▀█ ▄▄ █▀▄▀█ ▄▀█ █▀█
-█▀█ █▀█ █▄▄ █░█   ░█░ █▀█ ██▄   ▀▀█ ░░ █░▀░█ █▀█ █▀▀
-
+#Hack the QMap
 
 Guess the terrain of the quantum map!
 
