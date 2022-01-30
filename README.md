@@ -36,7 +36,7 @@ There are three levels of this game: Easy: level 1 (2 qubits), Medium: level 2 (
 * Level 3 has 6*6=36 blocks map
  
 Example gameplay:
-1) In round 1, both the players have to choose an initial state. The options are |0>⊗n, |1>⊗n and (|0> + |1>)/sqrt(2)⊗n.
+1) In round 1, at first, the players will be shown a target map. Both the players have to choose an initial state. The options are |0>⊗n, |1>⊗n and (|0> + |1>)/sqrt(2)⊗n.
 2) In following rounds, players have to add quantum gates to form the quantum circuit. Options are:
 
     * 0: X        (1-qubit)
@@ -48,6 +48,8 @@ Example gameplay:
     * 6: CNOT     (2-qubit)
 
 Players will also have to select the position of the gates and the rotation value of the rotation gates.
+
+3) Finally, the quantum circuits created by the players and the corresponding generated maps will be shown for visualization. The players' generated map will be compared with the target map. The player with the closest guess will win! (If the closest guess is atleast 70 percent similar to the target map, otherwise no one wins :( )
 
 
 
